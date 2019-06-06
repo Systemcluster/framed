@@ -1,23 +1,9 @@
 
 <p align="center">
-  <img src="https://946663360620-us-east-1-static-files.s3.amazonaws.com/syntax/logo.png" width="128" height="128"/>
+  <img src="./logo.png" width="128" height="128"/>
 </p>
-<h1 align="center">Framer Syntax</h1>
-
-<img src="https://946663360620-us-east-1-static-files.s3.amazonaws.com/syntax/vsc.png" />
+<h1 align="center">Framed</h1>
 
 ## Introduction
 
-Framer Syntax is a dark, minimalist theme inspired by Framer’s popular code editor. It supports coding languages like HTML, CSS, JS, and JSON, giving you everything you need to build amazing products for the Web.
-
-## Installation
-
-- Install theme via [Marketplace](https://marketplace.visualstudio.com/items?itemName=Framer.framer-syntax)
-- Launch Quick Open from within Visual Studio Code by pressing <kbd>cmd</kbd> <kbd>shift</kbd> <kbd>p</kbd>. 
-- Type `theme` and choose `Preferences: Color Theme`
-- Select the Framer Syntax Theme
-
-Alternatively install via CLI:
-```
-code --install-extension Framer.framer-syntax
-```
+Framed is a dark, minimalist theme based on Framer Syntax.

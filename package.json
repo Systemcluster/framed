@@ -1,17 +1,17 @@
 {
-    "name": "framer-syntax",
-    "displayName": "Framer Syntax",
-    "description": "A color theme inspired by the Framer Editor",
-    "version": "0.0.7",
-    "publisher": "Framer",
-    "repository": "https://github.com/framer/syntax-vsc",
+    "name": "framed",
+    "displayName": "Framed",
+    "description": "A color theme inspired by Framer Syntax",
+    "version": "0.0.1",
+    "publisher": "Systemcluster",
+    "repository": "https://github.com/Systemcluster/framed",
     "engines": {
-        "vscode": "^1.21.0"
+        "vscode": "^1.35.0"
     },
     "categories": [
         "Themes"
     ],
-    "icon": "logo.png",
+    "icon": "./logo.png",
     "galleryBanner": {
         "color": "#09F",
         "theme": "dark"
@@ -19,9 +19,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Framer Syntax",
+                "label": "Framed",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Framer Syntax-color-theme.json"
+                "path": "./themes/framed-color-theme.json"
             }
         ]
     }
