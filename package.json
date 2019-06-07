@@ -11,7 +11,7 @@
     "categories": [
         "Themes"
     ],
-    "icon": "./logo.png",
+    "icon": "logo.png",
     "galleryBanner": {
         "color": "#09F",
         "theme": "dark"

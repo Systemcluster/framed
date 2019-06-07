@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./logo.png" width="128" height="128"/>
+  <img src="https://raw.githubusercontent.com/Systemcluster/framed/master/logo.png" width="128" height="128"/>
 </p>
 <h1 align="center">Framed</h1>
 
